@@ -1,4 +1,4 @@
-- hosts: host
+- hosts: localhost
   tasks:
     - name: Installs nginx web server
       yum:
